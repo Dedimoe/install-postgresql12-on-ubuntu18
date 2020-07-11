@@ -51,7 +51,7 @@ Now You can run ```sudo su postgres``` to change to the postgres system user and
 sudo su - postgres
 psql
 ```
-And You should get the output shown below
+And you should get the output shown:
 ```
 postgres@linux:~$ psql
 psql (12.3 (Ubuntu 12.3-1.pgdg18.04+1))
@@ -59,3 +59,5 @@ Type "help" for help.
 
 postgres=#
 ```
+
+### Done.s
